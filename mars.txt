@@ -1,4 +1,5 @@
 I have modified the first line!
+
 Further modifications to our mars plan.
 
 Cold and dry, but everything is my favorite color.
@@ -10,4 +11,6 @@ There's a storm in the southern hemisphere.
 
 the storm contains toxic gas
 
-No I edited the last line!
+<<<<<<< HEAD
+I have modified the last line!
+>>>>>>> 0f4a2aa1abdf0d0c4c4bde56ba0db414b0cccc13
